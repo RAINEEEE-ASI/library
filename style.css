@@ -1521,7 +1521,6 @@ a:focus:not(:focus-visible) {
 }
 .gallery-caption h2,
 .gallery-caption h3 {
-  min-height: 2.6em;
   margin: 9px 0 9px;
   color: #123a6d;
   font:
